@@ -1,0 +1,14 @@
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\bin\Debug\net6.0\Enums_Lumpkin_Dalton.exe
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\bin\Debug\net6.0\Enums_Lumpkin_Dalton.deps.json
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\bin\Debug\net6.0\Enums_Lumpkin_Dalton.runtimeconfig.json
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\bin\Debug\net6.0\Enums_Lumpkin_Dalton.dll
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\bin\Debug\net6.0\Enums_Lumpkin_Dalton.pdb
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.AssemblyInfoInputs.cache
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.AssemblyInfo.cs
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.csproj.CoreCompileInputs.cache
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.dll
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\refint\Enums_Lumpkin_Dalton.dll
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.pdb
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\Enums_Lumpkin_Dalton.genruntimeconfig.cache
+C:\Users\DaltonLumpkin\source\repos\Enums_Lumpkin_Dalton\Enums_Lumpkin_Dalton\obj\Debug\net6.0\ref\Enums_Lumpkin_Dalton.dll
